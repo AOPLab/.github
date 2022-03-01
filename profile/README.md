@@ -1,6 +1,6 @@
 <h1 align="center">
   <br/>
-  <a href="http://oplab.im.ntu.edu.tw"><img src="aoplab_logo.png" alt="orchid-mahjong" width="300"/></a>
+  <a href="http://oplab.im.ntu.edu.tw"><img src="https://raw.githubusercontent.com/AOPLab/.github/main/profile/aoplab_logo.png" alt="aoplab_logo" width="300"/></a>
   <br/>
 </h1>
 
